@@ -22,3 +22,6 @@ $ pip install .
 ```
 $ python sample/train_cifar.py --dataset cifar100 --augmentation
 ```
+
+## 謝辞
+このリポジトリは、[grafi-tt](https://github.com/grafi-tt) さんが以前実装したものを整理したものです。感謝いたします。
